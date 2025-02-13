@@ -1,3 +1,3 @@
 global.username = "KURUMI"
-global.password = "KURUMI MD BY RYCKO"
+global.password = "SC FREE KURUMI BY RYCKO"
 global.konek = "6281391487969"
